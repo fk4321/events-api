@@ -1,0 +1,16 @@
+.events {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.events div {
+    border: 0.1rem solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.events div li {
+    list-style: none;
+}
